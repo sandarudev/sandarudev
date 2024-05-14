@@ -1,8 +1,9 @@
-# ✍️ Inspiration
+# Hi there,I'm Sandaru Silva👋
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 💫 About Me
-Hi there,I'm Sandaru Silva👋<br><br>I'm a Software Engineer with a passion for technology and creativity. Here's a bit about me:<br><br>- 🔭 I’m currently working on honing my skills as a Full-Stack Developer.<br>- 🌱 I’m constantly learning and exploring new technologies to stay updated in the ever-evolving tech world.<br>- 👨‍💻 My expertise lies in developing robust and user-friendly software solutions.<br>- 🎨 I'm also skilled in UI/UX design, ensuring that the products I build not only function well but also look great.<br>- 🎵 In my free time, I'm a musician, expressing my creativity through music.<br><br>
+I'm a Software Engineer with a passion for technology and creativity. 
+<br>Here's a bit about me:<br><br>- 🔭 I’m currently working on honing my skills as a Full-Stack Developer.<br>- 🌱 I’m constantly learning and exploring new technologies to stay updated in the ever-evolving tech world.<br>- 👨‍💻 My expertise lies in developing robust and user-friendly software solutions.<br>- 🎨 I'm also skilled in UI/UX design, ensuring that the products I build not only function well but also look great.<br>- 🎵 In my free time, I'm a musician, expressing my creativity through music.<br><br>
 
 # 🤝 Get in Touch<br>
 Let's connect and collaborate! 
